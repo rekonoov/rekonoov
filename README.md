@@ -1,4 +1,4 @@
-# 👋 Hi
+# 👋 Hi, I'm Bogdan
 
 💻 **Backend Developer | InfoSec Enthusiast | Linux User**
 
