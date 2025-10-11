@@ -32,7 +32,6 @@ Clean code. Secure systems. Deep understanding.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-2C2C2C?style=for-the-badge&logo=tryhackme&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
