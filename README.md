@@ -41,6 +41,11 @@ Clean code. Secure systems. Deep understanding.
 
 ---
 
+## 📊 TryHackMe Stats
+<img src="https://tryhackme-badges.s3.amazonaws.com/rekoonov.png" alt="Your Image Badge" />
+
+---
+
 ## 📬 Contact
 📫 **Telegram:** (https://t.me/rekoonov)
 
