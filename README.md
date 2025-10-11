@@ -39,7 +39,6 @@ Clean code. Secure systems. Deep understanding.
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rekonoov&show_icons=true&theme=tokyonight)
 
----
 
 ## 📊 TryHackMe Stats
 <img src="https://tryhackme-badges.s3.amazonaws.com/rekoonov.png" alt="Your Image Badge" />
