@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi
 
-<!--
-**rekonoov/rekonoov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Backend Developer | InfoSec Enthusiast | Linux User**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+I enjoy building reliable backend systems, learning how things work under the hood, and exploring cybersecurity.  
+Currently focused on:
+- ⚙️ **C++** — core language and systems-level understanding  
+- 🌐 **Go (Golang)** — backend and high-performance services  
+- 🛡️ **InfoSec & Networking** — TryHackMe labs, protocols, vulnerabilities  
+- 🐧 **Linux** — automation, shell scripting, configuration
+
+Clean code. Secure systems. Deep understanding.
+
+---
+
+## 🚀 Projects & Notes
+| Repository | Description |
+|-------------|-------------|
+| 🧱 **STUDY** | Notes on C++, Networking, Cybersecurity, and CS50 concepts |
+| ⚙️ **Tools** | Bash and Go utilities for automation | **[SOON]**
+| 🧩 **Security-Labs** | TryHackMe and practical InfoSec exercises | **[SOON]**
+| 🔐 **Notes** | Cheat sheets and quick references (Linux, web, protocols) | **[SOON]**
+
+---
+
+## 🛠️ Tech Stack
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-2C2C2C?style=for-the-badge&logo=tryhackme&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bogdan-dev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bogdan-dev&layout=compact&theme=tokyonight)
+
+---
+
+## 📬 Contact
+📫 **Telegram:** [@rekoonov] (https://t.me/rekoonov)
+📧 **Email:** rekoonov@icloud.com  
+
+---
+
+> _“Discipline beats motivation.”_
