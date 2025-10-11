@@ -20,16 +20,15 @@ Clean code. Secure systems. Deep understanding.
 | Repository | Description |
 |-------------|-------------|
 | 🧱 **STUDY** | Notes on C++, Networking, Cybersecurity, and CS50 concepts |
-| ⚙️ **Tools** | Bash and Go utilities for automation | **[SOON]**
-| 🧩 **Security-Labs** | TryHackMe and practical InfoSec exercises | **[SOON]**
-| 🔐 **Notes** | Cheat sheets and quick references (Linux, web, protocols) | **[SOON]**
+| ⚙️ **Tools** | Bash and Go utilities for automation **[SOON]** |
+| 🧩 **Security-Labs** | TryHackMe and practical InfoSec exercises **[SOON]** | 
+| 🔐 **Notes** | Cheat sheets and quick references (Linux, web, protocols) **[SOON]** |
 
 ---
 
 ## 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-2C2C2C?style=for-the-badge&logo=tryhackme&logoColor=white)
