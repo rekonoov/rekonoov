@@ -21,7 +21,7 @@ Clean code. Secure systems. Deep understanding.
 |-------------|-------------|
 | 🧱 **STUDY** | Notes on C++, Networking, Cybersecurity, and CS50 concepts |
 | ⚙️ **Tools** | Bash and Go utilities for automation **[SOON]** |
-| 🧩 **Security-Labs** | TryHackMe and practical InfoSec exercises **[SOON]** | 
+| 🧩 **Security-Labs** | TryHackMe and practical InfoSec exercises | 
 | 🔐 **Notes** | Cheat sheets and quick references (Linux, web, protocols) **[SOON]** |
 
 ---
