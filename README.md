@@ -43,9 +43,5 @@ Clean code. Secure systems. Deep understanding.
 ---
 
 ## 📬 Contact
-📫 **Telegram:** [@rekoonov] (https://t.me/rekoonov)
-📧 **Email:** rekoonov@icloud.com  
-
----
-
-> _“Discipline beats motivation.”_
+📫 **Telegram:** (https://t.me/rekoonov)
+📧 **Email:** rekoonov@icloud.com 
