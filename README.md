@@ -42,7 +42,7 @@ Clean code. Secure systems. Deep understanding.
 ---
 
 ## 📊 TryHackMe Stats
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5775756" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/rekoonov.png" alt="Your Image Badge" />
 
 ---
 
