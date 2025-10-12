@@ -41,10 +41,7 @@ Building reliable backend systems with focus on security and simplicity.
 ---
 
 ### Links
-[Reddit](https://www.reddit.com/user/Rekonov)  
-[X](https://x.com/Rekoonov)  
-[Telegram](https://t.me/rekoonov)  
-[TryHackMe](https://tryhackme.com/p/rekoonov)
+[Reddit](https://www.reddit.com/user/Rekonov) | [X](https://x.com/Rekoonov) | [Telegram](https://t.me/rekoonov) | [TryHackMe](https://tryhackme.com/p/rekoonov) | [Instagram](https://www.instagram.com/rekoonov/) | [Codedex](https://www.codedex.io/@rekoonov)
 
 ---
 
