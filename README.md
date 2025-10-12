@@ -34,13 +34,6 @@ Building reliable backend systems with focus on security and simplicity.
 
 ---
 
-### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rekonoov&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rekonoov&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=00000000&hide_border=true)
-
-
----
-
 ### Links
 [Reddit](https://www.reddit.com/user/Rekonov) · [X](https://x.com/Rekoonov) · [Telegram](https://t.me/rekoonov) · [TryHackMe](https://tryhackme.com/p/rekoonov) · [Instagram](https://www.instagram.com/rekoonov/) · [Codedex](https://www.codedex.io/@rekoonov)
 
