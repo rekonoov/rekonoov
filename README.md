@@ -26,10 +26,10 @@ Building reliable backend systems with focus on security and simplicity.
 ---
 
 ### Stack
-![C++](https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-0A0A0A?style=for-the-badge&logo=go&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=white)
+[![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)](https://isocpp.org/)
+[![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=ffffff)](https://golang.org/)
+[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ffffff)](https://www.kernel.org/)
+[![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ffffff)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=ffffff)](https://hub.docker.com/)
 
 ---
