@@ -48,3 +48,5 @@ Clean code. Secure systems. Deep understanding.
 💬 **Telegram:** https://t.me/rekoonov |
 📷 **Instagram:** https://www.instagram.com/rekoonov/ |
 📧 **Email:** rekoonov@icloud.com
+🌐 **Reddit:** https://www.reddit.com/user/Rekonov/
+👥 **X** https://x.com/Rekoonov
