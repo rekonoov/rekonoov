@@ -1,31 +1,31 @@
-# 👋 Hi, I'm Bogdan  
+# Hi, i'm Bogdan
 
-💻 **Backend Developer | InfoSec Enthusiast | Linux User**  
+**Backend Developer | InfoSec Enthusiast | Linux User**
 
 Exploring systems, networks, and cybersecurity.  
-Building reliable backend systems with a focus on security and simplicity.  
+Building reliable backend systems with focus on security and simplicity.
 
 ---
 
-### 🧠 Focus
+### Focus
 - Backend architecture & systems design  
 - Cybersecurity & networking  
 - Linux & automation  
 
-> Clean code. Secure systems. Deep understanding.  
+> Clean code. Secure systems. Deep understanding.
 
 ---
 
-### 🧩 Projects
+### Projects
 | Repository | Description |
 |-------------|-------------|
-| 📚 **Study** | Notes on backend, networking, and security |
-| 🛡️ **Security-Labs** | Practical InfoSec & TryHackMe exercises |
-| 🛠️ **Tools** | Automation utilities and experiments |
+| **Study** | Notes on backend, networking, and security |
+| **Security-Labs** | Practical InfoSec & TryHackMe exercises |
+| **Tools** | Automation utilities and experiments |
 
 ---
 
-### 🛠️ Stack
+### Stack
 ![C++](https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-0A0A0A?style=for-the-badge&logo=go&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=white)
@@ -34,12 +34,20 @@ Building reliable backend systems with a focus on security and simplicity.
 
 ---
 
-### 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rekonoov&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rekonoov&layout=compact&theme=tokyonight&hide_border=true)
+### Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rekonoov&show_icons=false&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rekonoov&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
-### 🌐 Links
-[Reddit](https://www.reddit.com/user/Rekonov) • [X](https://x.com/Rekoonov) • [Telegram](https://t.me/rekoonov)  
-[TryHackMe](https://tryhackme.com/p/rekoonov) • [Instagram](https://www.instagram.com/rekoonov/) • [Codedex](https://www.codedex.io/@rekoonov)
+### Links
+[Reddit](https://www.reddit.com/user/Rekonov)  
+[X](https://x.com/Rekoonov)  
+[Telegram](https://t.me/rekoonov)  
+[TryHackMe](https://tryhackme.com/p/rekoonov)
+
+---
+
+### Philosophy
+> “Everything should be as simple as possible, but no simpler.”  
+> — Albert Einstein
