@@ -30,12 +30,17 @@ Building reliable backend systems with focus on security and simplicity.
 ![Go](https://img.shields.io/badge/Go-0A0A0A?style=for-the-badge&logo=go&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-0A0A0A?style=for-the-badge&logo=tryhackme&logoColor=white)
+[![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=ffffff)](https://hub.docker.com/)
 
 ---
 
 ### Links
-[Reddit](https://www.reddit.com/user/Rekonov) · [X](https://x.com/Rekoonov) · [Telegram](https://t.me/rekoonov) · [TryHackMe](https://tryhackme.com/p/rekoonov) · [Instagram](https://www.instagram.com/rekoonov/) · [Codedex](https://www.codedex.io/@rekoonov)
+[![Reddit](https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=ffffff)](https://www.reddit.com/user/Rekonov)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/Rekoonov)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/rekoonov)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=ffffff)](https://tryhackme.com/p/rekoonov)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/rekoonov/)
+[![Codedex](https://img.shields.io/badge/Codedex-000000?style=for-the-badge&logo=codedex&logoColor=ffffff)](https://www.codedex.io/@rekoonov)
 
 ---
 
