@@ -16,15 +16,6 @@ Building reliable backend systems with focus on security and simplicity.
 
 ---
 
-### Projects
-| Repository | Description |
-|-------------|-------------|
-| **Study** | Notes on backend, networking, and security |
-| **Security-Labs** | Practical InfoSec & TryHackMe exercises |
-| **Tools** | Automation utilities and experiments |
-
----
-
 ### Stack
 [![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)](https://isocpp.org/)
 [![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=ffffff)](https://golang.org/)
@@ -41,9 +32,3 @@ Building reliable backend systems with focus on security and simplicity.
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=ffffff)](https://tryhackme.com/p/rekoonov)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/rekoonov/)
 [![Codedex](https://img.shields.io/badge/Codedex-000000?style=for-the-badge&logo=codedex&logoColor=ffffff)](https://www.codedex.io/@rekoonov)
-
----
-
-### Philosophy
-> “Everything should be as simple as possible, but no simpler.”  
-> — Albert Einstein
