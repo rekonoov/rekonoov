@@ -16,6 +16,15 @@ Building reliable backend systems with focus on security and simplicity.
 
 ---
 
+### Projects
+| Repository | Description |
+|-------------|-------------|
+| **Study** | Notes on backend, networking, and security |
+| **Security-Labs** | Practical InfoSec & TryHackMe exercises |
+| **Tools** | Automation utilities and experiments |
+
+---
+
 ### Stack
 [![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)](https://isocpp.org/)
 [![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=ffffff)](https://golang.org/)
