@@ -1,6 +1,6 @@
 # Hi, i'm Bogdan
 
-**Backend Developer | InfoSec Enthusiast |**
+**Backend Developer | InfoSec Enthusiast**
 
 Exploring systems, networks, and cybersecurity.  
 Building reliable backend systems with focus on security and simplicity.
